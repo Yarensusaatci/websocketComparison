@@ -1,0 +1,32 @@
+2023-12-26 03:07:40,408 - INFO - Coin: bitcoin - Price: $43607 - Latency: 0.24009919166564941 seconds
+2023-12-26 03:11:39,939 - INFO - Coin: bitcoin - Price: $43577 - Latency: 0.4391794204711914 seconds
+2023-12-26 03:11:44,294 - INFO - Coin: bitcoin - Price: $43577 - Latency: 0.20909881591796875 seconds
+2023-12-26 03:11:47,199 - INFO - Coin: bitcoin - Price: $43577 - Latency: 0.289623498916626 seconds
+2023-12-26 03:11:48,902 - INFO - Coin: bitcoin - Price: $43577 - Latency: 0.21499061584472656 seconds
+2023-12-26 03:12:21,002 - INFO - Scalability Test - 1 users completed in 0.0009999275207519531 seconds
+2023-12-26 03:12:36,829 - INFO - Scalability Test - 1000 users completed in 0.02100229263305664 seconds
+2023-12-26 03:14:47,917 - INFO - Throughput Test - 1000 users processed in 0.02327418327331543 seconds. Throughput: 42966.06193466436 requests/second
+2023-12-26 03:15:35,338 - INFO - Throughput Test - 1000 users processed in 0.059914588928222656 seconds. Throughput: 16690.425785913252 requests/second
+2023-12-26 03:15:38,099 - INFO - Throughput Test - 100 users processed in 0.007002353668212891 seconds. Throughput: 14280.912495743956 requests/second
+2023-12-26 03:15:41,615 - INFO - Throughput Test - 10 users processed in 0.0020008087158203125 seconds. Throughput: 4997.979027645377 requests/second
+2023-12-26 03:17:21,549 - INFO - In Fastapi: Throughput Test - 10 users processed in 0.0022232532501220703 seconds. Throughput: 4497.913136729223 requests/second
+2023-12-26 03:34:00,340 - INFO - WebSocket server listening on port 8888
+2023-12-26 03:34:01,341 - INFO - Scalability Test - 10 users processed in 0.9994337558746338 seconds. Throughput: 10.005665649394349 requests/second
+2023-12-26 03:34:32,094 - INFO - WebSocket server listening on port 8888
+2023-12-26 03:36:30,852 - INFO - WebSocket server listening on port 8888
+2023-12-26 03:37:38,730 - INFO - WebSocket server listening on port 8888
+2023-12-26 03:41:11,840 - INFO - WebSocket server listening on port 8888
+2023-12-26 03:46:14,673 - INFO - WebSocket server listening on port 8888
+2023-12-26 10:24:50,395 - INFO - Latency for bitcoin: 2.983628273010254 seconds
+2023-12-26 11:40:49,040 - INFO - Latency for bitcoin: 201.51302003860474 seconds
+2023-12-26 11:58:02,305 - INFO - WebSocket server listening on port 8888
+2023-12-26 12:02:16,997 - INFO - Coin: bitcoin - Price: $42687 - Latency: 0.2377171516418457 seconds
+2023-12-26 12:02:55,524 - INFO - Coin: bitcoin - Price: $42687 - Latency: 0.23406744003295898 seconds
+2023-12-26 12:05:37,127 - INFO - Scalability Test - 10 users completed in 0.0 seconds
+2023-12-26 12:05:41,943 - INFO - Scalability Test - 100 users completed in 0.0 seconds
+2023-12-26 12:05:49,443 - INFO - Scalability Test - 10000 users completed in 0.23270177841186523 seconds
+2023-12-26 12:09:35,941 - INFO - Coin: bitcoin - Price: $42723 - Latency: 0.3506810665130615 seconds
+2023-12-26 12:10:25,387 - INFO - In Fastapi: Throughput Test - 1000 users processed in 0.02253556251525879 seconds. Throughput: 44374.308354757144 requests/second
+2023-12-26 12:11:10,525 - INFO - In Fastapi: Throughput Test - 100000 users processed in 2.8609867095947266 seconds. Throughput: 34952.976071030236 requests/second
+2023-12-26 12:12:44,569 - INFO - Scalability Test - 10 users completed in 0.0 seconds
+2023-12-26 12:13:01,214 - INFO - WebSocket server listening on port 8888
